@@ -2,12 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## INSTRUCTION:
 
-After downloading the source code, run following command:
-npm install
-For installing necessary library
-npm start
-For starting the server
-
+After downloading the source code, run following command:<br />
+npm install <br />
+For installing necessary library <br />
+npm start <br />
+For starting the server<br />
+ 
 ## Available Scripts
 
 In the project directory, you can run:
